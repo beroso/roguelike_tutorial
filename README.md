@@ -5,7 +5,7 @@ Roguelike based on [Yet Another Roguelike Tutorial - Written in Python 3 and TCO
 Python version 3.6 or higher
 
 ## Setup
-`pip install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 ## Running
-`pithon3 main.py`
+`python3 main.py`
